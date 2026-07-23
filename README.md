@@ -1,3 +1,7 @@
 # 8086--verilog-Design-IDSA-
 An RTL implementation of the 16-bit  8086 microprocessor architecture in Verilog.
-[x] ADD(Working)
+### ALU INSTURCTION STATUS
+-[x] ADD(working)
+-[x] substact(working)
+-[] divide(Not working)
+-[] multiply(Not working)
